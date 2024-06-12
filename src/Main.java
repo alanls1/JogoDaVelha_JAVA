@@ -6,7 +6,7 @@ public class Main extends JFrame {
         // to see how IntelliJ IDEA suggests fixing it.
          jogoDaVelha jogoVelha = new jogoDaVelha();
          jogoVelha.JogoDaVelha();
-        boolean[] click = new boolean[9];
+        
 
     }
 }
